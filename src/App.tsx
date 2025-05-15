@@ -1,5 +1,5 @@
 import { useEffect } from 'react';
-import './App.css'; // Ou o seu arquivo de estilos principal
+import './style.css'; // Ou o seu arquivo de estilos principal
 
 // Declaração para o TypeScript reconhecer window.particlesJS
 declare global {
